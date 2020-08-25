@@ -11,12 +11,12 @@ entertainment:
 Takes value of 1 for units in forced-exposure condition who were assigned to entertainment, NA otherwise.
 
 med_pref: 
-Stated preference, S
-Values: Fox (1), MSNBC (2), entertainment (3), otherwise NA
+Stated preference, S. Entertainment (3-4) is merged for analysis.
+Values: Fox (1), MSNBC (2), Food Network (3), Discovery Channel (4), otherwise NA
 
 med_choice: 
-Actual choice for units in free-choice condition.
-Values: Fox (1), MSNBC (2), entertainment (3), otherwise NA
+Actual choice, C, for units in free-choice condition. Entertainment (3-4) is merged for analysis.
+Values: Fox (1), MSNBC (2), Food Network (3), Discovery Channel (4), otherwise NA
 
 actions_discuss: 
 Prompt: Thinking about the video clip you just watched, how likely would you be to discuss the story with a friend? 
